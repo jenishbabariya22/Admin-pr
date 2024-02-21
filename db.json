@@ -1,0 +1,185 @@
+{
+  "user": [
+    {
+      "name": "jenish",
+      "email": "jenish",
+      "password": 1234,
+      "phone": "7984652555",
+      "role": "admin",
+      "id": "e5b6"
+    },
+    {
+      "id": "726e",
+      "name": "jenishbabariya58@gmail.com",
+      "email": "jenishbabariya58@gmail.com",
+      "password": "sdsdfg",
+      "phone": "7899522333",
+      "role": "user"
+    },
+    {
+      "id": "e4b2",
+      "name": "jatinkapodatra",
+      "email": "jenishbabariya58@gmail.com",
+      "password": "weew",
+      "phone": "7984614252",
+      "role": "user"
+    },
+    {
+      "id": "27fd",
+      "name": "jenishbabariya58@gmail.com",
+      "email": "jenishbabariya58@gmail.com",
+      "password": "dffdf",
+      "phone": "13243674",
+      "role": "user"
+    },
+    {
+      "id": "8194",
+      "name": "jenishbabariya58@gmail.com",
+      "email": "jenishbabariya58@gmail.com",
+      "password": "nnjj",
+      "phone": "7984314252",
+      "role": "user"
+    },
+    {
+      "id": "6c9a",
+      "name": "jenishbabariya58@gmail.com",
+      "email": "jenishbabariya58@gmail.com",
+      "password": "nsnsnsns",
+      "phone": "622333657",
+      "role": "user"
+    },
+    {
+      "id": "a465",
+      "name": "makwana@gmail.com",
+      "email": "jenishbabariya58@gmail.com",
+      "password": "12345678",
+      "phone": "",
+      "role": "user"
+    },
+    {
+      "id": "2de9",
+      "name": "yyoy",
+      "email": "vfd",
+      "password": "dvdfv ",
+      "phone": "51",
+      "role": "user"
+    },
+    {
+      "id": "ad02",
+      "name": "x sx",
+      "email": "vc df",
+      "password": "bg ",
+      "phone": "452",
+      "role": "user"
+    },
+    {
+      "id": "fe16",
+      "name": "jenishbabariya58@gmail.com",
+      "email": "jenishbabariya58@gmail.com",
+      "password": "123456789",
+      "phone": "7984314252623598789",
+      "role": "user"
+    },
+    {
+      "id": "8ed8",
+      "name": "DF",
+      "email": "FDFD",
+      "password": "          ",
+      "phone": "",
+      "role": "user"
+    },
+    {
+      "id": "2156",
+      "name": "jenishbabariya58@gmail.com",
+      "email": "jenishbabariya58@gmakmkmkmkil.com",
+      "password": "1234567895555",
+      "phone": "9265437056",
+      "role": "user"
+    }
+  ],
+  "category": [
+    {
+      "id": "aa32",
+      "category": "toy"
+    },
+    {
+      "id": "43c1",
+      "category": "mobile"
+    },
+    {
+      "id": "f3d6",
+      "category": "cycle"
+    },
+    {
+      "id": "b109",
+      "category": "bluetooth"
+    },
+    {
+      "id": "48bf",
+      "category": "T-shirt"
+    },
+    {
+      "id": "9c60",
+      "category": "camera"
+    }
+  ],
+  "product": [
+    {
+      "id": "776f",
+      "category": "mobile",
+      "product": "Apple",
+      "qty": "1",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70",
+      "discription": "Island ensures you stay connected, bubbling up alerts seamlessly while you're busy.",
+      "title": "Apple iPhone 15 (Blue, 128 GB)",
+      "market": "latest"
+    },
+    {
+      "id": "f43b",
+      "category": "mobile",
+      "product": "Vivo",
+      "qty": "1",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/4/h/e/-original-imagzjhwmsamexfk.jpeg?q=70",
+      "discription": "Vivo T2x 5G,",
+      "title": "vivo T2x 5G (Glimmer Black, 128 GB)  (6 GB RAM)",
+      "market": "-----select status-----"
+    },
+    {
+      "id": "0fb2",
+      "category": "cycle",
+      "product": "cycle",
+      "qty": "1",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/cycle/d/l/a/beast-26t-multispeed-7-speed-mountain-bike-with-fs-dd-brake-26-original-imaggxzzzymmt9ry.jpeg?q=70",
+      "discription": "cycle",
+      "title": "LEADER Beast 26T MultiSpeed "
+    },
+    {
+      "id": "539f",
+      "category": "bluetooth",
+      "product": "Apple airpods",
+      "qty": "1",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/e/a/f/-original-imagtc44nk4b3hfg.jpeg?q=70",
+      "discription": "Airpods nice",
+      "title": "Airpods Pro"
+    },
+    {
+      "id": "54c6",
+      "category": "camera",
+      "product": "Canon",
+      "qty": "1",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/i/o/c/eos-r100-24-1-eos-r100-kit-canon-original-imagqeydhsxgacxp.jpeg?q=70",
+      "discription": "DIGIC 8 Image Processor, 4K 24p Video with Crop,",
+      "title": "Canon R100 Mirrorless Camera RF-S 18-45mm",
+      "market": "latest"
+    },
+    {
+      "id": "fc8d",
+      "category": "mobile",
+      "product": "oppo",
+      "qty": "1",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mobile/w/a/5/a59-5g-cph2617-oppo-original-imagwez4ruy9wrad.jpeg?q=70",
+      "discription": "The Oppo A59 smartphone is a masterpiece of design, innovation, and functionality. With its Glowing Silk Design, Ultra-Vivid",
+      "title": "OPPO A59 5G (Starry Black, 128 GB)  (6 GB RAM)#JustHere"
+    }
+  ]
+}
