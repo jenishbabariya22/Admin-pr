@@ -54,7 +54,8 @@ function Register() {
         >
           <form
             style={{
-              background: "violet",
+              background: "blackviolet",
+              color: "white",
               padding: "20px",
               margin: "15px",
               width: "600px",
